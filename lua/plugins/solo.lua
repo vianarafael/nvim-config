@@ -9,6 +9,7 @@ return {
 
   -- Test runner (Pytest) with nice UI
   {
+    "nvim-neotest/nvim-nio",
     "nvim-neotest/neotest",
     dependencies = {
       "nvim-lua/plenary.nvim",
