@@ -14,7 +14,7 @@ return {
       ensure_installed = {
         -- Python
         "pyright",
-        "ruff_lsp",
+        "ruff",
         -- Web
         "html",
         "emmet_language_server",
