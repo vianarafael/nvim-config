@@ -25,7 +25,7 @@ brew install \
   curl \
   unzip \
   pkg-config \
-  lua@5.1 \
+  lua \
   luarocks \
   make \
   gcc
